@@ -9,15 +9,21 @@
 - :outbox_tray: 2021 Goals: find a new job.
 
 
+## Abilities
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 
+## Status
 [![andrec762 GitHub stats](https://github-readme-stats.vercel.app/api?username=andrec762&theme=dark)](https://github.com/andrec762/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrec762&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
 <!--
 **andrec762/andrec762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
