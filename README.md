@@ -20,9 +20,9 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 
 ## Status
-[![andrec762 GitHub stats](https://github-readme-stats.vercel.app/api?username=andrec762&theme=dark)](https://github.com/andrec762/github-readme-stats)
+[![AndreCandidoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreCandidoDev&theme=dark)](https://github.com/AndreCandidoDev/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrec762&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCandidoDev&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **andrec762/andrec762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
