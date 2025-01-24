@@ -4,8 +4,8 @@
 
 ## About me
 - :computer: I'm Full-Stack Developer!
-- :books: I’m currently learning React and improve my front-end skills.
-- :outbox_tray: 2022 Goals: Keep learning keep growing.
+- :books: I’m currently studying .NET and improve my frontend skills.
+- :outbox_tray: 2025 Goals: Find a better job and keep growing.
 
 ## Front-End Skills
 <div align='center'>
@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white">
 </div>
 
 ## Back-End Skills
