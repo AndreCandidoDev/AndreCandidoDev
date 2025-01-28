@@ -27,11 +27,6 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 </div>
-
-## Status
-[![AndreCandidoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreCandidoDev&theme=dark)](https://github.com/AndreCandidoDev/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreCandidoDev&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **andrec762/andrec762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
