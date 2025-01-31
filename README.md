@@ -26,6 +26,9 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <img src="https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff">
+    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white">
 </div>
 <!--
 **andrec762/andrec762** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
