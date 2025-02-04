@@ -1,5 +1,5 @@
 ### I'm Andre Candido! Welcome to my GitHub👋
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-candido-676b1115b/)]( LINK_LINKEDIN)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andre-candido-676b1115b/)](https://www.linkedin.com/in/andre-candido-676b1115b/)
 
 
 ## About me
